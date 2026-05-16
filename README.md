@@ -8,7 +8,7 @@ A simple Python command-line interface (CLI) application to help you track your 
 "View Expenses*: See a list of all expenses made
 
 # How To Run
-1. Make sure you have**Python 3** installed on your PC
+1. Make sure you have **Python 3** installed on your PC
 2. Download the "Expense Tracker.py" file
 3. Open your terminal or command prompt
 4. Run the script
